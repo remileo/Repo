@@ -1,0 +1,9 @@
+#menu li
+{
+    display: inline;
+}
+
+#menu li img
+{
+    display: block;
+}
